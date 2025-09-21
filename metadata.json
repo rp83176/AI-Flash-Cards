@@ -1,0 +1,5 @@
+{
+  "name": "AI Flashcard Generator",
+  "description": "An intelligent flashcard generator that creates study sets on any topic using the Gemini API. Enter a subject and get a deck of virtual flashcards with key terms and definitions to supercharge your learning.",
+  "requestFramePermissions": []
+}
